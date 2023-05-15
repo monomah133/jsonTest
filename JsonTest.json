@@ -4,9 +4,7 @@
 		"UserId":"0",
 		"Name": "Oleg",
 		"Damage": 6,
-		"Speed": 4,
-		"Weight": 13,
-		"Info": "rrr"
+		"Speed": 4
 	},
 	{
 		"UserId":"1",
