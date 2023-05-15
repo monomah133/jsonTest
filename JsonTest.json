@@ -3,7 +3,7 @@
 	{
 		"UserId":"0",
 		"Name": "Oleg",
-		"Damage": "6",
+		"Damage": 6,
 		"Speed": 4
 	},
 	{
