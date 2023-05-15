@@ -1,4 +1,5 @@
-[
+{
+	"UserInfo":[
 	{
 		"Name": "Sword",
 		"Damage": 6,
@@ -21,3 +22,4 @@
 		"Info": "tttt"
 	}
 ]
+}
