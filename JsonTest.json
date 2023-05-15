@@ -1,6 +1,7 @@
 {
 	"UserInfo":[
 	{
+		"UserId":"0",
 		"Name": "Oleg",
 		"Damage": 6,
 		"Speed": 4,
@@ -8,6 +9,7 @@
 		"Info": "rrr"
 	},
 	{
+		"UserId":"1",
 		"Name": "pixsel",
 		"Damage": 3,
 		"Speed": 8,
@@ -15,6 +17,7 @@
 		"Info": "www"
 	},
 	{
+		"UserId":"2",
 		"Name": "Slava",
 		"Damage": 8,
 		"Speed": 3,
