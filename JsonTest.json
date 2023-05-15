@@ -1,23 +1,25 @@
-[
+{
+	"UserInfo":[
 	{
-		"Name": "Sword",
+		"Name": "Oleg",
 		"Damage": 6,
 		"Speed": 4,
 		"Weight": 13,
 		"Info": "rrr"
 	},
 	{
-		"Name": "Dagger",
+		"Name": "pixsel",
 		"Damage": 3,
 		"Speed": 8,
 		"Weight": 2,
 		"Info": "www"
 	},
 	{
-		"Name": "Axe",
+		"Name": "Slava",
 		"Damage": 8,
 		"Speed": 3,
 		"Weight": 3,
 		"Info": "tttt"
 	}
 ]
+}
