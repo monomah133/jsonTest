@@ -1,10 +1,9 @@
-[
+{
+	"UserInfo":[
 	{
-		"Name": "Oleg",
-		"Damage": 6,
-		"Speed": 4,
-		"Weight": 13,
-		"Info": "rrr"
+		"Proffesion": "Buelder",
+		"ProffCost": 5,
+		"Speciality": ["Bricks", "Beton"]
 	},
 	{
 		"Name": "pixsel",
@@ -21,3 +20,4 @@
 		"Info": "tttt"
 	}
 ]
+}
