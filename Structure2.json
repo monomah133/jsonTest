@@ -40,7 +40,7 @@
     },
     {
       "ProfessionType": "Engineer",
-      "ProfessionDescription" : "Ремонтирует сарай,
+      "ProfessionDescription" : "Ремонтирует сарай",
       "Specializations": [
         {
           "Name": "Mechanical Engineering",
