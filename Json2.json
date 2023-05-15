@@ -1,23 +1,19 @@
 {
 	"UserInfo":[
 	{
-		"Proffesion": "Buelder",
+		"Proffesion": "Строитель",
 		"ProffCost": 5,
-		"Speciality": ["Bricks", "Beton"]
+		"Speciality": ["Кирпичи", "Бетон"]
 	},
 	{
-		"Name": "pixsel",
-		"Damage": 3,
-		"Speed": 8,
-		"Weight": 2,
-		"Info": "www"
+		"Proffesion": "Полицейский",
+		"ProffCost": 5,
+		"Speciality": ["Оружие", "Атака"]
 	},
 	{
-		"Name": "Slava",
-		"Damage": 8,
-		"Speed": 3,
-		"Weight": 3,
-		"Info": "tttt"
+		"Proffesion": "Пожарный",
+		"ProffCost": 5,
+		"Speciality": ["Вода", "Смелость"]
 	}
 ]
 }
