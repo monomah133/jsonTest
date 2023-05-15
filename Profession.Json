@@ -1,0 +1,19 @@
+{
+	"UserInfo":[
+	{
+		"Profession": "Строитель",
+		"ProfCost": 5,
+		"Speciality": ["Кирпичи", "Бетон"]
+	},
+	{
+		"Profession": "Полицейский",
+		"ProfCost": 5,
+		"Speciality": ["Оружие", "Атака"]
+	},
+	{
+		"Profession": "Пожарный",
+		"ProfCost": 5,
+		"Speciality": ["Вода", "Смелость"]
+	}
+]
+}
