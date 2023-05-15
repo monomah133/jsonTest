@@ -1,0 +1,23 @@
+[
+	{
+		"Name": "Sword",
+		"Damage": 6,
+		"Speed": 4,
+		"Weight": 13,
+		"Info": "rrr"
+	},
+	{
+		"Name": "Dagger",
+		"Damage": 3,
+		"Speed": 8,
+		"Weight": 2,
+		"Info": "www"
+	},
+	{
+		"Name": "Axe",
+		"Damage": 8,
+		"Speed": 3,
+		"Weight": 3,
+		"Info": "tttt"
+	}
+]
