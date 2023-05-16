@@ -5,7 +5,8 @@
       "ProfessionDescription" : "Лечит больных",
       "Specializations": [
         {
-          "Name": "Cardiology",
+          "Name": "Кардиология",
+          "SpecializationDescription" : "Лечит сердце",
           "Budget": 10,
           "Skills": [
             {
@@ -21,7 +22,8 @@
           ]
         },
         {
-          "Name": "Neurology",
+          "Name": "Стоматолог" ,
+           "SpecializationDescription" : "Лечит зубы",
           "Budget": 8,
           "Skills": [
             {
