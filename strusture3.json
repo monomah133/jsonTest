@@ -16,7 +16,7 @@
               "Multiplier": 2
             },
             {
-              "Name": "Кардиологическая диагностика",
+              "Name": "диагностика",
               "SkillsDescription" : "выносливость сердца",
               "IndividualPrice": 4,
               "Multiplier": 2
