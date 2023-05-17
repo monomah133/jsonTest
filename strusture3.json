@@ -13,13 +13,13 @@
               "Name": "Хирургия сердца",
               "SkillsDescription" : "Восстанавливает сердце",
               "IndividualPrice": 3,
-              "Multiplier": 2
+              "Multiplier": "-4"
             },
             {
               "Name": "диагностика",
               "SkillsDescription" : "выносливость сердца",
               "IndividualPrice": 4,
-              "Multiplier": 2
+              "Multiplier": "+2"
             }
           ]
         },
