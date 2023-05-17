@@ -2,41 +2,47 @@
   "Professions": [
     {
       "ProfessionType": "Доктор",
-      "ProfessionDescription" : "Лечит больных",
+      "ProfessionDescription": "Лечит больных",
       "Specializations": [
         {
           "Name": "Кардиология",
-          "SpecializationDescription" : "Лечит сердце",
+          "SpecializationDescription": "Лечит сердце",
           "Budget": 10,
           "Skills": [
             {
               "Name": "Хирургия сердца",
-              "SkillsDescription" : "Восстанавливает сердце",
-              "IndividualPrice": 3,
+              "SkillsDescription": "Восстанавливает сердце",
+              "IndividualPrice": 4,
               "Multiplier": "-4"
             },
             {
+              "Name": "Адреналин",
+              "SkillsDescription": "Ускоряет сердце",
+              "IndividualPrice": 3,
+              "Multiplier": "-2"
+            },
+            {
               "Name": "диагностика",
-              "SkillsDescription" : "выносливость сердца",
-              "IndividualPrice": 4,
+              "SkillsDescription": "выносливость сердца",
+              "IndividualPrice": 3,
               "Multiplier": "+2"
             }
           ]
         },
         {
-          "Name": "Стоматолог" ,
-           "SpecializationDescription" : "Лечит зубы",
+          "Name": "Стоматолог",
+          "SpecializationDescription": "Лечит зубы",
           "Budget": 8,
           "Skills": [
             {
               "Name": "Удаление нерва зуба",
-              "SkillsDescription" : "уменьшает зубную боль",
+              "SkillsDescription": "уменьшает зубную боль",
               "IndividualPrice": 2,
               "Multiplier": "3"
             },
             {
               "Name": "Рентген челюсти",
-              "SkillsDescription" : "Позволяет обноружить проблемы",
+              "SkillsDescription": "Позволяет обноружить проблемы",
               "IndividualPrice": 4,
               "Multiplier": "3"
             }
@@ -46,7 +52,7 @@
     },
     {
       "ProfessionType": "Engineer",
-      "ProfessionDescription" : "Ремонтирует сарай",
+      "ProfessionDescription": "Ремонтирует сарай",
       "Specializations": [
         {
           "Name": "Mechanical Engineering",
