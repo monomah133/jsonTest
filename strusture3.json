@@ -32,13 +32,13 @@
               "Name": "Удаление нерва зуба",
               "SkillsDescription" : "уменьшает зубную боль",
               "IndividualPrice": 2,
-              "Multiplier": 3
+              "Multiplier": "3"
             },
             {
               "Name": "Рентген челюсти",
               "SkillsDescription" : "Позволяет обноружить проблемы",
               "IndividualPrice": 4,
-              "Multiplier": 3
+              "Multiplier": "3"
             }
           ]
         }
