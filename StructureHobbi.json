@@ -39,6 +39,32 @@
           "Budget": 2
         }
       ]
+    },
+    {
+      "HobbiType": "Искусство",
+      "HobbiDescription": "Рисует картины",
+      "HobbiBudget": 10,
+      "HobbiMultiplier": 4,
+      "HobbiSpecializations": [
+        {
+          "Name": "Рисование",
+          "SpecializationDescription": "выращивает траву",
+          "Multiplier": 4,
+          "Budget": 3
+        },
+        {
+          "Name": "Гармония",
+          "SpecializationDescription": "выращивает траву",
+          "Multiplier": 4,
+          "Budget": 4
+        },
+        {
+          "Name": "Воображение",
+          "SpecializationDescription": "Банчит грибами",
+          "Multiplier": -3,
+          "Budget": 2
+        }
+      ]
     }
   ]
 }
