@@ -10,7 +10,7 @@
           "Name": "Готовка мяса",
           "SpecializationDescription": "Лготовит свежее мясо",
           "Multiplier": 2,
-          "Budget": 3
+          "Budget": 1
         },
         {
           "Name": "СГотовка Рыьбы",
@@ -36,7 +36,7 @@
           "Name": "Грибничество",
           "SpecializationDescription": "Банчит грибами",
           "Multiplier": -3,
-          "Budget": 2
+          "Budget": 4
         }
       ]
     },
