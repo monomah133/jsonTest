@@ -1,0 +1,42 @@
+{
+  "Hobbi": [
+    {
+      "HobbiType": "Кулинария",
+      "HobbiDescription": "Готовит быстрее еду ",
+      "HobbiBudget": 8,
+      "HobbiSpecializations": [
+        {
+          "Name": "Готовка мяса",
+          "SpecializationDescription": "Лготовит свежее мясо",
+          "Multiplier": "+2",
+          "Budget": 3
+        },
+        {
+          "Name": "СГотовка Рыьбы",
+          "SpecializationDescription": "Готовит рыбу",
+          "Multiplier": "+2",
+          "Budget": 2
+        }
+      ]
+    },
+    {
+      "HobbiType": "Садоводство",
+      "HobbiDescription": "сажает растения ",
+      "HobbiBudget": 10,
+      "HobbiSpecializations": [
+        {
+          "Name": "Травничество",
+          "SpecializationDescription": "выращивает траву",
+          "Multiplier": "+3",
+          "Budget": 3
+        },
+        {
+          "Name": "Грибничество",
+          "SpecializationDescription": "Банчит грибами",
+          "Multiplier": "+4",
+          "Budget": 2
+        }
+      ]
+    }
+  ]
+}
