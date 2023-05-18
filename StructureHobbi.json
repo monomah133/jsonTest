@@ -3,7 +3,8 @@
     {
       "HobbiType": "Кулинария",
       "HobbiDescription": "Готовит быстрее еду ",
-      "HobbiBudget": 8,
+      "HobbiBudget": 3,
+      "HobbiMultiplier": 2,
       "HobbiSpecializations": [
         {
           "Name": "Готовка мяса",
@@ -22,7 +23,8 @@
     {
       "HobbiType": "Садоводство",
       "HobbiDescription": "сажает растения ",
-      "HobbiBudget": 10,
+      "HobbiBudget": 6,
+      "HobbiMultiplier": 1,
       "HobbiSpecializations": [
         {
           "Name": "Травничество",
