@@ -32,6 +32,7 @@
         },
         {
           "Name": "Стоматолог",
+          "Level" : "LevelStom",
           "SpecializationDescription": "Лечит зубы",
           "Budget": 8,
           "Skills": [
