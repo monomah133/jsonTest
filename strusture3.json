@@ -6,6 +6,7 @@
       "Specializations": [
         {
           "Name": "Кардиология",
+          "Level" : "LevelCardiolog",
           "SpecializationDescription": "Лечит сердце",
           "Budget": 10,
           "Skills": [
