@@ -53,11 +53,13 @@
       ]
     },
     {
-      "ProfessionType": "Engineer",
+      "ProfessionType": "Инженер",
       "ProfessionDescription": "Ремонтирует сарай",
       "Specializations": [
         {
-          "Name": "Mechanical Engineering",
+          "Name": "Механик",
+           "SpecializationDescription": "ремонтирует машины",
+           "Level" : "LevelMechanical",
           "Budget": 8,
           "Skills": [
             {
@@ -73,7 +75,9 @@
           ]
         },
         {
-          "Name": "Civil Engineering",
+          "Name": "Электрик",
+          "SpecializationDescription": "Работает с электричеством",
+          "Level" : "LevelCivil",
           "Budget": 8,
           "Skills": [
             {
