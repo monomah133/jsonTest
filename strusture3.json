@@ -6,7 +6,7 @@
       "Specializations": [
         {
           "Name": "Кардиология",
-          "Level" : "LevelCardiolog",
+          "Level": "LevelCardiolog",
           "SpecializationDescription": "Лечит сердце",
           "Budget": 10,
           "Skills": [
@@ -32,7 +32,7 @@
         },
         {
           "Name": "Стоматолог",
-          "Level" : "LevelStom",
+          "Level": "LevelStom",
           "SpecializationDescription": "Лечит зубы",
           "Budget": 8,
           "Skills": [
@@ -53,13 +53,83 @@
       ]
     },
     {
+      "ProfessionType": "Строитель",
+      "ProfessionDescription": "Строит сараи",
+      "Specializations": [
+        {
+          "Name": "Кладка кирпича",
+          "Level": "LevelCardiolog",
+          "SpecializationDescription": "Строит стоит",
+          "Budget": 10,
+          "Skills": [
+            {
+              "Name": "Хирургия сердца",
+              "SkillsDescription": "Восстанавливает сердце",
+              "IndividualPrice": 4,
+              "Multiplier": "-4"
+            },
+            {
+              "Name": "Адреналин",
+              "SkillsDescription": "Ускоряет сердце",
+              "IndividualPrice": 3,
+              "Multiplier": "-2"
+            },
+            {
+              "Name": "диагностика",
+              "SkillsDescription": "выносливость сердца",
+              "IndividualPrice": 3,
+              "Multiplier": "+2"
+            }
+          ]
+        },
+        {
+          "Name": "Дрельщик",
+          "Level": "LevelStom",
+          "SpecializationDescription": "Дрелит",
+          "Budget": 8,
+          "Skills": [
+            {
+              "Name": "Удаление нерва зуба",
+              "SkillsDescription": "уменьшает зубную боль",
+              "IndividualPrice": 2,
+              "Multiplier": "3"
+            },
+            {
+              "Name": "Рентген челюсти",
+              "SkillsDescription": "Позволяет обноружить проблемы",
+              "IndividualPrice": 4,
+              "Multiplier": "3"},
+              {
+          "Name": "Архитектор",
+          "Level": "LevelStom",
+          "SpecializationDescription": "Дрелит",
+          "Budget": 8,
+          "Skills": [
+            {
+              "Name": "Удаление нерва зуба",
+              "SkillsDescription": "уменьшает зубную боль",
+              "IndividualPrice": 2,
+              "Multiplier": "3"
+            },
+            {
+              "Name": "Рентген челюсти",
+              "SkillsDescription": "Позволяет обноружить проблемы",
+              "IndividualPrice": 4,
+              "Multiplier": "3"
+            }]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ProfessionType": "Инженер",
       "ProfessionDescription": "Ремонтирует сарай",
       "Specializations": [
         {
           "Name": "Механик",
-           "SpecializationDescription": "ремонтирует машины",
-           "Level" : "LevelMechanical",
+          "SpecializationDescription": "ремонтирует машины",
+          "Level": "LevelMechanical",
           "Budget": 8,
           "Skills": [
             {
@@ -77,7 +147,7 @@
         {
           "Name": "Электрик",
           "SpecializationDescription": "Работает с электричеством",
-          "Level" : "LevelCivil",
+          "Level": "LevelCivil",
           "Budget": 8,
           "Skills": [
             {
