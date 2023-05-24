@@ -84,7 +84,33 @@
       "Specializations": [
         {
           "Name": "Кладка кирпича",
-          "Level": "LevelCardiolog",
+          "Level": "LevelBriks",
+          "SpecializationDescription": "Строит стоит",
+          "Budget": 10,
+          "Skills": [
+            {
+              "Name": "Хирургия сердца",
+              "SkillsDescription": "Восстанавливает сердце",
+              "IndividualPrice": 4,
+              "Multiplier": "-4"
+            },
+            {
+              "Name": "Адреналин",
+              "SkillsDescription": "Ускоряет сердце",
+              "IndividualPrice": 3,
+              "Multiplier": "-2"
+            },
+            {
+              "Name": "диагностика",
+              "SkillsDescription": "выносливость сердца",
+              "IndividualPrice": 3,
+              "Multiplier": "+2"
+            }
+          ]
+        },
+        {
+          "Name": "Архитектор",
+          "Level": "LevelArhitector",
           "SpecializationDescription": "Строит стоит",
           "Budget": 10,
           "Skills": [
@@ -110,7 +136,7 @@
         },
         {
           "Name": "Дрельщик",
-          "Level": "LevelStom",
+          "Level": "LevelDrel",
           "SpecializationDescription": "Дрелит",
           "Budget": 8,
           "Skills": [
@@ -125,26 +151,6 @@
               "SkillsDescription": "Позволяет обноружить проблемы",
               "IndividualPrice": 4,
               "Multiplier": "3"
-            },
-            {
-              "Name": "Архитектор",
-              "Level": "LevelStom",
-              "SpecializationDescription": "Дрелит",
-              "Budget": 8,
-              "Skills": [
-                {
-                  "Name": "Удаление нерва зуба",
-                  "SkillsDescription": "уменьшает зубную боль",
-                  "IndividualPrice": 2,
-                  "Multiplier": "3"
-                },
-                {
-                  "Name": "Рентген челюсти",
-                  "SkillsDescription": "Позволяет обноружить проблемы",
-                  "IndividualPrice": 4,
-                  "Multiplier": "3"
-                }
-              ]
             }
           ]
         }
