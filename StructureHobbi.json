@@ -8,12 +8,14 @@
       "HobbiSpecializations": [
         {
           "Name": "Готовка мяса",
+          "Level": "LevelMeat",
           "SpecializationDescription": "Лготовит свежее мясо",
           "Multiplier": 2,
           "Budget": 1
         },
         {
-          "Name": "СГотовка Рыьбы",
+          "Name": "Готовка Рыьбы",
+          "Level": "LevelFish",
           "SpecializationDescription": "Готовит рыбу",
           "Multiplier": -3,
           "Budget": 2
