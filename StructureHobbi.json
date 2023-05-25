@@ -30,12 +30,14 @@
       "HobbiSpecializations": [
         {
           "Name": "Травничество",
+          "Level": "LevelTrava",
           "SpecializationDescription": "выращивает траву",
           "Multiplier": 4,
           "Budget": 3
         },
         {
           "Name": "Грибничество",
+          "Level": "LevelGrib",
           "SpecializationDescription": "Банчит грибами",
           "Multiplier": -3,
           "Budget": 4
