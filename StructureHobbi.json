@@ -52,19 +52,19 @@
       "HobbiSpecializations": [
         {
           "Name": "Рисование",
-          "SpecializationDescription": "выращивает траву",
+          "SpecializationDescription": "хорошо рисует",
           "Multiplier": 4,
           "Budget": 3
         },
         {
           "Name": "Гармония",
-          "SpecializationDescription": "выращивает траву",
+          "SpecializationDescription": "быстро успокаивается",
           "Multiplier": 4,
           "Budget": 4
         },
         {
           "Name": "Воображение",
-          "SpecializationDescription": "Банчит грибами",
+          "SpecializationDescription": "хорошо мыслит",
           "Multiplier": -3,
           "Budget": 2
         }
