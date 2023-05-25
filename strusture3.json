@@ -32,7 +32,7 @@
         },
         {
           "Name": "Хирург",
-          "Level": "LevelCardiolog",
+          "Level": "LevelHirurg",
           "SpecializationDescription": "Лечит сердце",
           "Budget": 10,
           "Skills": [
