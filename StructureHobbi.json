@@ -69,32 +69,6 @@
           "Budget": 2
         }
       ]
-    },
-    {
-      "HobbiType": "",
-      "HobbiDescription": "",
-      "HobbiBudget": 0,
-      "HobbiMultiplier": 0,
-      "HobbiSpecializations": [
-        {
-          "Name": "",
-          "SpecializationDescription": "",
-          "Multiplier": 4,
-          "Budget": 3
-        },
-        {
-          "Name": "",
-          "SpecializationDescription": "",
-          "Multiplier": 4,
-          "Budget": 4
-        },
-        {
-          "Name": "",
-          "SpecializationDescription": "",
-          "Multiplier": -3,
-          "Budget": 2
-        }
-      ]
     }
   ]
 }
